@@ -1,0 +1,9 @@
+{
+	"name": "ninja-obj-scan",
+	"authors": [
+		"Michael Fadely"
+	],
+	"description": "Scans binaries for NJS_OBJECT instances.",
+	"copyright": "Copyright © 2018, Michael Fadely",
+	"license": "MIT"
+}
